@@ -1,2 +1,3 @@
 # intraday-financial-forecasting-model
 Its my Masters thesis project, called STORM-GATE for the prediction of intraday financial market, which integrates temporal long-horizon , graph-based, regime/volatility detector, news sentiment, and MoE and TFT for final perdition layer
+This repository contains the full implementation of my master's thesis project, STORM-GATE, which integrates temporal long-horizon modeling, graph-based networks, regime/volatility detection, news sentiment analysis, and Mixture-of-Experts with Temporal Fusion Transformers. The architectural patterns developed here directly inform my proposed STORM-HUMAN framework for humanitarian early warning and resource allocation.
